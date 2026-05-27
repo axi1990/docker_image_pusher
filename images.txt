@@ -7,4 +7,5 @@
 #rabbitmq
 #mysql:5.6
 #mysql:8.0
-redis:7-alpine
+#redis:7-alpine
+flower
