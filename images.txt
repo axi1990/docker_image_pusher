@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #rabbitmq
 #mysql:5.6
-mysql:8.0
+#mysql:8.0
+redis:7-alpine
