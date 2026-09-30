@@ -9,4 +9,5 @@
 #mysql:8.0
 #redis:7-alpine
 #mher/flower
-python:3.13-slim
+#python:3.13-slim
+nginx:alpine
